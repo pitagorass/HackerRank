@@ -1,0 +1,26 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitagorass/HackerRank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitagorass/HackerRank/issues"
+  },
+  "homepage": "https://github.com/pitagorass/HackerRank#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
+}
